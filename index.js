@@ -1,5 +1,5 @@
 module.exports = {
-    "extends": ["@alexgodard/eslint-config-alexgodard-base", "airbnb", "prettier"],
+    "extends": ["airbnb", "@alexgodard/eslint-config-alexgodard-base", "prettier"],
     "plugins": [
         "react-hooks",
         "react",
