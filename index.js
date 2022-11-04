@@ -10,6 +10,7 @@ module.exports = {
         "react/no-danger": 0,
         "react/jsx-props-no-spreading": 0,
         "react/function-component-definition": 0,
+        "unicorn/no-null": 0,
         "react/jsx-filename-extension": [1,
             {
                 "extensions": [
