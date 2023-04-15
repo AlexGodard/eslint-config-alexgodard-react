@@ -1,6 +1,6 @@
 {
   "name": "@alexgodard/eslint-config-alexgodard-react",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Set of eslint rules used in my React projects",
   "main": "index.js",
   "author": "Alexandre Godard",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/AlexGodard/eslint-config-alexgodard-react#readme",
   "dependencies": {
-    "@alexgodard/eslint-config-alexgodard-base": "^2.0.0",
+    "@alexgodard/eslint-config-alexgodard-base": "^3.0.0",
     "eslint": "^8.23.1",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-jsx-a11y": "^6.6.1",
